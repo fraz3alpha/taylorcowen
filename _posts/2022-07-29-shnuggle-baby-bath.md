@@ -8,7 +8,9 @@ img_path: "/assets/img/baby/"
 ---
 
 
+We've been using this bath for our baby since birth, and have only recently upgraded to the toddler version, it has been great.
 
 ![Shnuggle Baby Bath](shnuggle-baby-bath.jpg)
 _The Shnuggle Baby Bath_
-We've been using this bath for our baby since birth, and have only recently upgraded to the toddler version
+
+You can buy this directly from the manufacturer via [shnuggle.com](https://www.shnuggle.com/products/shnuggle-baby-bath-with-plug), or on [Amazon](https://amzn.to/3S4KFNQ)
